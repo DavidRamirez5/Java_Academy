@@ -10,5 +10,5 @@ se agrega una tabla con los entregables y accesos rapidos:
 | `PDF Git `       | [Click Aqui](https://github.com/DavidRamirez5/Java_Academy/tree/main/semanas/semana1/tareas/Git)          |
 | `Singleton`      | [Click Aqui](https://github.com/DavidRamirez5/Java_Academy/tree/main/semanas/semana1/tareas/Singleton)    |
 | `Polimorfismo`   | [Click Aqui](https://github.com/DavidRamirez5/Java_Academy/tree/main/semanas/semana1/tareas/Polimorfismo) |
-| `Simuladores`    | Pendinete                                                                                                 |
+| `Simuladores`    | [Click Aqui](https://github.com/DavidRamirez5/Java_Academy/tree/main/semanas/semana1/tareas/simuladores)                                                                                                |
 
