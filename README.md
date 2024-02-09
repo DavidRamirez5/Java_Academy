@@ -6,7 +6,7 @@ tareas y notas. Cada semana se actualizara la tabla de los accesos directos.
 | Semana     🗓️ | Acceso Directo   ↙️                                                                   |
 |----------------|---------------------------------------------------------------------------------------|
 | `Semana 1 `    | [Click Aqui](https://github.com/DavidRamirez5/Java_Academy/tree/main/semanas/semana1) |
-| `Semana 2`     | ....                                                                                  |
+| `Semana 2`     | [Click Aqui](https://github.com/DavidRamirez5/Java_Academy/tree/main/semanas/semana2/tareas)                                                                                  |
 | `Semana 3`     | ....                                                                                  |
 | `Semana 4`     | ....                                                                                  |
 | `Semana 5`     | ....                                                                                  |
